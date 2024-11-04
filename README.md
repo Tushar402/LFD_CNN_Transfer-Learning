@@ -1,5 +1,5 @@
 # LFD_CNN_Transfer-Learning
-CNN model with data augmentation and the same model using Transfer Learning to compare their performance
+CNN model with data augmentation and the same model using Transfer Learning to compare their performance.
 I developed a CNN model from scratch with data augmentation for images.
 classification and the same model using transfer learning to compare
 their performance using Python.
